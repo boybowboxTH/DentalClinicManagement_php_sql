@@ -1,5 +1,5 @@
 This project uses several languages such as :
-  Front-end: html,css
+  Front-end: html,css,bootstrap5
   backend: php
   database used: mysql
 
