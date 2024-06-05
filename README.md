@@ -7,3 +7,4 @@ This project requires server, please make sure to import dentalclinic.sql in you
 
 This project is final project of subject database management.
 https://videnclinic.000webhostapp.com/
+http://visakraclinic.byethost33.com
